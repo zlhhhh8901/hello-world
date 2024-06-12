@@ -1,9 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T08:09:11.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="23.1.1" etag="sZl6GluS9Bml2jmkVcTJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T02:30:48.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8B8fsg4eOpKfdkm82otI" version="24.5.1" type="github">
   <diagram name="第 1 页" id="4M_pbs_fJmKvl9M3ugHk">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-1" value="质保修复工具" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.99;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=12.5;endSize=12.799999999999999;width=15;" edge="1" parent="1" source="eBkeSsnxBjaP-2OtvqSI-3" target="eBkeSsnxBjaP-2OtvqSI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="sourcePoint" />
+            <mxPoint x="230" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-5" value="基础校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eBkeSsnxBjaP-2OtvqSI-2">
+          <mxGeometry x="-0.0856" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-3" value="数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="385" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-6" value="&lt;div data-page-id=&quot;doxk4fLWzZhjoJqfnhFipKvFNwe&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; class=&quot;old-record-id-doxk4eozcIZH5MKJtCh2fUi9aM0&quot;&gt;车辆VIN是否存在&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; class=&quot;old-record-id-doxk4eozcIZH5MKJtCh2fUi9aM0&quot;&gt;交付日期格式是否正确&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; class=&quot;old-record-id-doxk4eozcIZH5MKJtCh2fUi9aM0&quot;&gt;交付里程是否正确&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; class=&quot;old-record-id-doxk4eozcIZH5MKJtCh2fUi9aM0&quot;&gt;审批流单号是否正确&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;doxk4fLWzZhjoJqfnhFipKvFNwe&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;车辆VIN&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+2*1*0+3&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7355687675485012076&amp;quot;],&amp;quot;1&amp;quot;:[&amp;quot;abbreviation-data&amp;quot;,&amp;quot;{\&amp;quot;id\&amp;quot;:\&amp;quot;1206104d-46ee-4d33-85ab-f392b6299bdf\&amp;quot;,\&amp;quot;abbr_ids\&amp;quot;:\&amp;quot;enterprise_7137215317125628013\&amp;quot;,\&amp;quot;is_visible\&amp;quot;:1,\&amp;quot;is_first\&amp;quot;:1}&amp;quot;]},&amp;quot;nextNum&amp;quot;:2}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:42,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:5},&amp;quot;recordId&amp;quot;:&amp;quot;doxk4eozcIZH5MKJtCh2fUi9aM0&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-7" value="ActionLink&lt;br&gt;质保修复抽象类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-8" value="OriginalFactoryAction&lt;br&gt;原厂质保期修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-9" value="ExtendWarrantyAction&lt;br&gt;延保质保期修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="450" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eBkeSsnxBjaP-2OtvqSI-10" value="SelfPayAction&lt;br&gt;自费质保期修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="375" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
